@@ -7,19 +7,14 @@
   
 ### Who Am I
 
-- 🌱 I’m currently learning Node, React, Algorithm
-- 🥇 I majored in Economics
-- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+- 안녕하세요. 잘 녹아들 수 있는 개발자, 김성희입니다.
+- 현재는 Typescript, Node.js, Algorithm등을 공부하고 있습니다.
+- 주변 사람들에게 도움이 되는 것과 소통에 관심이 많습니다.
 
 ### Experience
-- 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
-- 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
-- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
 
-### What I Like
-- 📺 Drama
-- 🔵 Game
-- 🍕 Pizza
+- Codestates, Software Engineering Bootcamp 28기 수료 (2021.01~2021.07)
+
 -------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesmile0310&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <img align='top' src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesmile0310&exclude_repo=codestates/Remember-server&theme=gruvbox">
