@@ -8,11 +8,13 @@
 ### Who Am I
 
 - 안녕하세요. 잘 녹아들 수 있는 개발자, 김성희입니다.
+- Javascript, Node.js, React를 주로 사용합니다.
 - 현재는 Typescript, Node.js, Algorithm등을 공부하고 있습니다.
 - 주변 사람들에게 도움이 되는 것과 소통에 관심이 많습니다.
 
 ### Experience
 
+- major in Department of Information and Communication Engineering
 - Codestates, Software Engineering Bootcamp 28기 수료 (2021.01~2021.07)
 
 -------------------------
