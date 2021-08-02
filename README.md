@@ -14,7 +14,7 @@
 
 ### Experience
 
-- major in Department of Information and Communication Engineering
+- I majored in Department of Information and Communication Engineering
 - Codestates, Software Engineering Bootcamp 28기 수료 (2021.01~2021.07)
 
 -------------------------
