@@ -19,4 +19,4 @@
 
 -------------------------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesmile0310&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-<img align='top' src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesmile0310&exclude_repo=codestates/Remember-server&theme=gruvbox">
+<!-- <img align='top' src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesmile0310&layout=compact&theme=gruvbox&exclude_repo=Remember-server"> -->
