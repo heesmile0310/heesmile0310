@@ -17,6 +17,5 @@
 - I majored in Department of Information and Communication Engineering
 - Codestates, Software Engineering Bootcamp 28기 수료 (2021.01~2021.07)
 
--------------------------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesmile0310&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heesmile0310&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <img align='top' src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesmile0310&layout=compact&theme=gruvbox&exclude_repo=Remember-server"> -->
